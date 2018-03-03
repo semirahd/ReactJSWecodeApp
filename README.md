@@ -1,2 +1,0 @@
-# ReactJSWecodeApp
-Created with CodeSandbox
